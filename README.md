@@ -1,4 +1,4 @@
-The thermostat project utilizes a TI SimpleLink Wi-Fi CC3220S wireless microcontroller for its connectivity and functionality. This microcontroller, based on the powerful ARM Cortex-M4 core, offers built-in Wi-Fi capabilities, eliminating the need for external Wi-Fi modules.
+The thermostat project (gpiointerrupt) utilizes a TI SimpleLink Wi-Fi CC3220S wireless microcontroller for its connectivity and functionality. This microcontroller, based on the powerful ARM Cortex-M4 core, offers built-in Wi-Fi capabilities, eliminating the need for external Wi-Fi modules.
 The CC3220S microcontroller integrates an on-chip Wi-Fi network processor, enabling seamless connectivity to the cloud. Its built-in networking stack and software development kit (SDK) simplify the implementation of Wi-Fi communication.
 
 In addition to Wi-Fi capabilities, the microcontroller provides various peripherals necessary for the thermostat project. It includes I2C, GPIO, UART, and timers, allowing for temperature sensing, LED output control, button detection, and data transmission.
